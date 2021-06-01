@@ -1,0 +1,5 @@
+#identity-box.extensionPage
+    #identity-icon[tooltiptext="Loaded by extension: nightTab"]
+    ~ #identity-icon-label {
+	display: none !important;
+}
